@@ -1,3 +1,5 @@
+### Cabal ###
+dist-newstyle/
+
 ### MacOS ###
 .DS_Store
-
