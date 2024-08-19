@@ -4,11 +4,11 @@ In *Alien Invasion*, the player controls a rocket ship that appears at the botto
 
 ## How to Play
 
-To play the game, start in the project's root directory and run the following commands:
+To play the game, first make sure that you have Cabal Version 3.0 installed. Then, start in the project's root directory and run the following commands:
 
 ```bash
-cabal build
-cabal run
+> cabal build
+> cabal run
 ```
 
 This will start the game.
