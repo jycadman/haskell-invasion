@@ -1,5 +1,5 @@
 # Revision history for haskell-invasion
 
-## 0.1.0.0 -- YYYY-mm-dd
+## 0.1.0.0 -- 2024-04-29
 
-* First version. Released on an unsuspecting world.
+* First version. Presented as a demo at UNM.
